@@ -104,7 +104,6 @@ Updates:
 - Provide guidelines for low-cardinality span names.
 - SDK Tracer: Replace TracerFactory with TracerProvider.
 - Update Resource to be in the SDK.
-- Remove SpanId from Sampler input.
 
 ## v0.2.0 (10-22-2019)
 
